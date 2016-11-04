@@ -1,0 +1,9 @@
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\bin\Debug\СheckedListBox.exe.config
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\bin\Debug\СheckedListBox.exe
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\bin\Debug\СheckedListBox.pdb
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\obj\Debug\СheckedListBox.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\obj\Debug\checkedListBox.Form1.resources
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\obj\Debug\checkedListBox.Properties.Resources.resources
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\obj\Debug\СheckedListBox.csproj.GenerateResource.Cache
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\obj\Debug\СheckedListBox.exe
+C:\Users\Dima\Downloads\СheckedListBox\СheckedListBox\СheckedListBox\obj\Debug\СheckedListBox.pdb

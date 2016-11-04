@@ -1,0 +1,13 @@
+C:\Users\Sergey\Documents\Visual Studio 2013\HomeWork\HomeWork\bin\Debug\Homework.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2013\HomeWork\HomeWork\obj\Debug\Homework.exe
+C:\Users\Sergey\Documents\Visual Studio 2013\HomeWork\HomeWork\obj\Debug\Homework.pdb
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\bin\Debug\Homework.exe.config
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\obj\Debug\Homework.exe
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\obj\Debug\Homework.pdb
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\obj\Debug\Alyona.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\obj\Debug\Alyona.csproj.GenerateResource.Cache
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\bin\Debug\Homework.exe
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\bin\Debug\Homework.pdb
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\obj\Debug\checkedListBox.Form1.resources
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\obj\Debug\checkedListBox.Properties.Resources.resources
+C:\Users\Dima\Downloads\HomeWork_1\HomeWork\HomeWork\bin\Debug\СheckedListBox.exe.config
